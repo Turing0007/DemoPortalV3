@@ -1,0 +1,32 @@
+{
+  "Dochistory":
+  [
+    {
+        "Timestamp": "12/10/2022 12:22",
+        "Username": "JSmithAdmin@testcompany.com",
+        "Action": "Imported",
+        "Description": "Document imported",
+        "Status": "Import Success"
+    },
+    {
+        "Timestamp": "12/11/2022 12:22",
+        "Username": "JSmithAdmin@testcompany.com",
+        "Action": "Marked as Read",
+        "Description": "Document viewed",
+        "Status": "Success"
+    }
+],
+"Processing":
+[
+    {
+        "Recipients": "James Andrew Smith",
+        "Email": "Jsmith@testCompany.com",
+        "Primary": "Yes"
+    },
+    {
+        "Recipients": "Trivender Singh",
+        "Email": "triv@123.com",
+        "Primary": "No"
+    }
+]
+}
